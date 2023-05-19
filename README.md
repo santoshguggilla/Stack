@@ -13,5 +13,5 @@ Update data from Postman using request PUT and Url (http:/localhost:8080/stock/s
 
 ## Summary
 1. created model for Stock and used enum class is StockType</br>
-2. 2. Made table in h2 database</br>
+2. Made table in h2 database</br>
 3. preformed CRUD operation on table Stock</br>
